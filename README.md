@@ -20,17 +20,9 @@ Want to know more details about what I do? Interested in starting a research pro
 
 <img align="center" src="https://i.imgur.com/5EKtKDd.gif"/>
 
-## Main Studies
+## Main Researches
 
-### Feeding my 🧠 with:
-> **Artificial Cognitive Systems** 🤖🔌
-###
-> **Assistive Technology for Movement** 🦽🦼
-###
-> **AR Game Design** 🕶️🎮
-###
-> **Education for Computational Thinking** 🖱️📔
-###
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&weight=300&pause=1000&color=0071FF&random=false&width=435&lines=Artificial+Cognitive+Systems+%F0%9F%A4%96%F0%9F%94%8C;Assistive+Movement+Technology++%F0%9F%A6%BD%F0%9F%A6%BC;AR+Game+Design+%F0%9F%95%B6%EF%B8%8F%F0%9F%8E%AE;Education+for+Logic+Thinking+%F0%9F%96%B1%EF%B8%8F%F0%9F%93%94)](https://git.io/typing-svg)
 
 <img align="center" src="https://i.imgur.com/5EKtKDd.gif"/>
 
