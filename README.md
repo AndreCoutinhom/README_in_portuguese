@@ -3,9 +3,8 @@
 # **Reach the Stars** 🚀💫 
 
 <div align="center" style="display: inline_block"><br>  
-<img src="https://i.pinimg.com/originals/9b/6b/4d/9b6b4dd97a65e67080182eb746656642.gif">
-<img src="https://i.pinimg.com/originals/9b/6b/4d/9b6b4dd97a65e67080182eb746656642.gif">
-<img src="https://i.pinimg.com/originals/9b/6b/4d/9b6b4dd97a65e67080182eb746656642.gif">
+<img width="500" src="https://i.pinimg.com/originals/9b/6b/4d/9b6b4dd97a65e67080182eb746656642.gif">
+<img width="500" src="https://i.pinimg.com/originals/9b/6b/4d/9b6b4dd97a65e67080182eb746656642.gif">
 
 </div>
 
