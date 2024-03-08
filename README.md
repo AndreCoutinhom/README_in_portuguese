@@ -3,8 +3,21 @@
 # **Reach the Stars** 🚀💫 
 
 <div align="center" style="display: inline_block"><br>  
-<img width="500" src="https://i.pinimg.com/originals/9b/6b/4d/9b6b4dd97a65e67080182eb746656642.gif">
-<img width="500" src="https://i.pinimg.com/originals/9b/6b/4d/9b6b4dd97a65e67080182eb746656642.gif">
+<img width="40" height="40" src="https://static.wikia.nocookie.net/insaniquarium/images/0/08/Star.gif/revision/latest/thumbnail/width/360/height/360?cb=20120504180110">
+<img width="40" height="40" src="https://static.wikia.nocookie.net/insaniquarium/images/0/08/Star.gif/revision/latest/thumbnail/width/360/height/360?cb=20120504180110">
+<img width="40" height="40" src="https://static.wikia.nocookie.net/insaniquarium/images/0/08/Star.gif/revision/latest/thumbnail/width/360/height/360?cb=20120504180110">
+<img width="40" height="40" src="https://static.wikia.nocookie.net/insaniquarium/images/0/08/Star.gif/revision/latest/thumbnail/width/360/height/360?cb=20120504180110">
+<img width="40" height="40" src="https://static.wikia.nocookie.net/insaniquarium/images/0/08/Star.gif/revision/latest/thumbnail/width/360/height/360?cb=20120504180110">
+<img width="40" height="40" src="https://static.wikia.nocookie.net/insaniquarium/images/0/08/Star.gif/revision/latest/thumbnail/width/360/height/360?cb=20120504180110">
+<img width="40" height="40" src="https://static.wikia.nocookie.net/insaniquarium/images/0/08/Star.gif/revision/latest/thumbnail/width/360/height/360?cb=20120504180110">
+<img width="40" height="40" src="https://static.wikia.nocookie.net/insaniquarium/images/0/08/Star.gif/revision/latest/thumbnail/width/360/height/360?cb=20120504180110">
+<img width="40" height="40" src="https://static.wikia.nocookie.net/insaniquarium/images/0/08/Star.gif/revision/latest/thumbnail/width/360/height/360?cb=20120504180110">
+<img width="40" height="40" src="https://static.wikia.nocookie.net/insaniquarium/images/0/08/Star.gif/revision/latest/thumbnail/width/360/height/360?cb=20120504180110">
+<img width="40" height="40" src="https://static.wikia.nocookie.net/insaniquarium/images/0/08/Star.gif/revision/latest/thumbnail/width/360/height/360?cb=20120504180110">
+<img width="40" height="40" src="https://static.wikia.nocookie.net/insaniquarium/images/0/08/Star.gif/revision/latest/thumbnail/width/360/height/360?cb=20120504180110">
+<img width="40" height="40" src="https://static.wikia.nocookie.net/insaniquarium/images/0/08/Star.gif/revision/latest/thumbnail/width/360/height/360?cb=20120504180110">
+<img width="40" height="40" src="https://static.wikia.nocookie.net/insaniquarium/images/0/08/Star.gif/revision/latest/thumbnail/width/360/height/360?cb=20120504180110">
+<img width="40" height="40" src="https://static.wikia.nocookie.net/insaniquarium/images/0/08/Star.gif/revision/latest/thumbnail/width/360/height/360?cb=20120504180110">
 
 </div>
 
