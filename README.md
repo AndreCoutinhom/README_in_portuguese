@@ -2,6 +2,15 @@
 
 # **Reach the Stars** 🚀💫 
 
+<div align="center" style="display: inline_block"><br>  
+<img src="https://i.pinimg.com/originals/9b/6b/4d/9b6b4dd97a65e67080182eb746656642.gif">
+<img src="https://i.pinimg.com/originals/9b/6b/4d/9b6b4dd97a65e67080182eb746656642.gif">
+<img src="https://i.pinimg.com/originals/9b/6b/4d/9b6b4dd97a65e67080182eb746656642.gif">
+
+</div>
+
+###
+
 > **"One small step from zero, I’m not afraid, cause the world that we want is right here for us to make."**. *Kanata Okajima*.
 > 
 > Music [*One Small Step*](https://open.spotify.com/intl-pt/track/0wvi4qO9vQ0HkkKrMAdoTA?si=516c4b0df5e64ba8).
