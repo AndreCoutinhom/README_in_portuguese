@@ -1,3 +1,5 @@
+<img align="center" src="https://i.imgur.com/5EKtKDd.gif"/>
+
 # **Reach the Stars** 🚀💫 
 
 > **"One small step from zero, I’m not afraid, cause the world that we want is right here for us to make."**. *Kanata Okajima*.
@@ -16,6 +18,8 @@ Want to know more details about what I do? Interested in starting a research pro
 
 📧 andre.coutinhom@gmail.com
 
+<img align="center" src="https://i.imgur.com/5EKtKDd.gif"/>
+
 ## Main Studies
 
 ### Feeding my 🧠 with:
@@ -27,6 +31,8 @@ Want to know more details about what I do? Interested in starting a research pro
 ###
 > **Education for Computational Thinking** 🖱️📔
 ###
+
+<img align="center" src="https://i.imgur.com/5EKtKDd.gif"/>
 
 ## Contributions performance 📈
 
