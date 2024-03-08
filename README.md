@@ -2,27 +2,6 @@
 
 # **Reach the Stars** 🚀💫 
 
-<div align="center" style="display: inline_block"><br>  
-<img width="40" height="40" src="https://static.wikia.nocookie.net/insaniquarium/images/0/08/Star.gif/revision/latest/thumbnail/width/360/height/360?cb=20120504180110">
-<img width="40" height="40" src="https://static.wikia.nocookie.net/insaniquarium/images/0/08/Star.gif/revision/latest/thumbnail/width/360/height/360?cb=20120504180110">
-<img width="40" height="40" src="https://static.wikia.nocookie.net/insaniquarium/images/0/08/Star.gif/revision/latest/thumbnail/width/360/height/360?cb=20120504180110">
-<img width="40" height="40" src="https://static.wikia.nocookie.net/insaniquarium/images/0/08/Star.gif/revision/latest/thumbnail/width/360/height/360?cb=20120504180110">
-<img width="40" height="40" src="https://static.wikia.nocookie.net/insaniquarium/images/0/08/Star.gif/revision/latest/thumbnail/width/360/height/360?cb=20120504180110">
-<img width="40" height="40" src="https://static.wikia.nocookie.net/insaniquarium/images/0/08/Star.gif/revision/latest/thumbnail/width/360/height/360?cb=20120504180110">
-<img width="40" height="40" src="https://static.wikia.nocookie.net/insaniquarium/images/0/08/Star.gif/revision/latest/thumbnail/width/360/height/360?cb=20120504180110">
-<img width="40" height="40" src="https://static.wikia.nocookie.net/insaniquarium/images/0/08/Star.gif/revision/latest/thumbnail/width/360/height/360?cb=20120504180110">
-<img width="40" height="40" src="https://static.wikia.nocookie.net/insaniquarium/images/0/08/Star.gif/revision/latest/thumbnail/width/360/height/360?cb=20120504180110">
-<img width="40" height="40" src="https://static.wikia.nocookie.net/insaniquarium/images/0/08/Star.gif/revision/latest/thumbnail/width/360/height/360?cb=20120504180110">
-<img width="40" height="40" src="https://static.wikia.nocookie.net/insaniquarium/images/0/08/Star.gif/revision/latest/thumbnail/width/360/height/360?cb=20120504180110">
-<img width="40" height="40" src="https://static.wikia.nocookie.net/insaniquarium/images/0/08/Star.gif/revision/latest/thumbnail/width/360/height/360?cb=20120504180110">
-<img width="40" height="40" src="https://static.wikia.nocookie.net/insaniquarium/images/0/08/Star.gif/revision/latest/thumbnail/width/360/height/360?cb=20120504180110">
-<img width="40" height="40" src="https://static.wikia.nocookie.net/insaniquarium/images/0/08/Star.gif/revision/latest/thumbnail/width/360/height/360?cb=20120504180110">
-<img width="40" height="40" src="https://static.wikia.nocookie.net/insaniquarium/images/0/08/Star.gif/revision/latest/thumbnail/width/360/height/360?cb=20120504180110">
-
-</div>
-
-###
-
 > **"One small step from zero, I’m not afraid, cause the world that we want is right here for us to make."**. *Kanata Okajima*.
 > 
 > Music [*One Small Step*](https://open.spotify.com/intl-pt/track/0wvi4qO9vQ0HkkKrMAdoTA?si=516c4b0df5e64ba8).
