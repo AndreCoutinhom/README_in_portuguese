@@ -4,13 +4,9 @@
 > 
 > Music [*One Small Step*](https://open.spotify.com/intl-pt/track/0wvi4qO9vQ0HkkKrMAdoTA?si=516c4b0df5e64ba8).
 
-<img align="center" src="https://i.imgur.com/5EKtKDd.gif"/>
-
 ## Salutations!! 👋
 
 My name is André, welcome to my **GitHub** profile. Here you will find all my projects and notes that I take during various scholar experiences. I'm a serial interdisciplinary researcher specializing in ergonomic products design and intuitive interfaces, with applications focused on videogames and wearable devices.
-
-In my [repositories](https://github.com/AndreCoutinhom?tab=repositories), you will find, in addition to coding projects, many contents written in **Markdown**, because I always take my notes for courses, studies, and ideas right here in the visual interface of **Git**. I love studying innovations in technology, software tools (especially for Front-End development), properties of different programming languages, game engines, responsive website development, and more. Nevertheless, my focus is on content for my master's research and for my R&D group named "**Software Cabin**".
 
 Want to know more details about what I do? Interested in starting a research project in technology? Then stick around, read more of my _README_, visit my repositories and my websites, or send me an email, the address is right down below 👇.
 
