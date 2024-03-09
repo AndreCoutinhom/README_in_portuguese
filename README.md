@@ -1,5 +1,3 @@
-<img align="center" src="https://i.imgur.com/5EKtKDd.gif"/>
-
 # **Reach the Stars** 🚀💫 
 
 > **"One small step from zero, I’m not afraid, cause the world that we want is right here for us to make."**. *Kanata Okajima*.
@@ -18,13 +16,9 @@ Want to know more details about what I do? Interested in starting a research pro
 
 📧 andre.coutinhom@gmail.com
 
-<img align="center" src="https://i.imgur.com/5EKtKDd.gif"/>
-
 ## Main Researches 📖
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&weight=300&pause=1000&color=0071FF&random=false&width=435&lines=Artificial+Cognitive+Systems+%F0%9F%A4%96%F0%9F%94%8C;Assistive+Movement+Technology++%F0%9F%A6%BD%F0%9F%A6%BC;AR+Game+Design+%F0%9F%95%B6%EF%B8%8F%F0%9F%8E%AE;Education+for+Logic+Thinking+%F0%9F%96%B1%EF%B8%8F%F0%9F%93%94)](https://git.io/typing-svg)
-
-<img align="center" src="https://i.imgur.com/5EKtKDd.gif"/>
 
 ## Contributions performance 📈
 
@@ -48,15 +42,9 @@ Want to know more details about what I do? Interested in starting a research pro
 
 ##
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AndreCoutinhom&bg_color=0d1117&color=025CDA&line=025CDA&point=80B5E2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-##
-
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=1200 src="https://github-profile-trophy.vercel.app/?username=AndreCoutinhom&theme=algolia"/>
 </a>
-
-<img align="center" src="https://i.imgur.com/5EKtKDd.gif"/>
 
 ## Study Tools 🔬
 
@@ -95,8 +83,6 @@ Want to know more details about what I do? Interested in starting a research pro
 
 </div>  
 
-<img align="center" src="https://i.imgur.com/5EKtKDd.gif"/>
-
 ## Other places you can find me 🔍
 
   <div> 
@@ -106,8 +92,6 @@ Want to know more details about what I do? Interested in starting a research pro
   <a href="https://steamcommunity.com/profiles/76561199185421332" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
   <a href="https://andrecoutinhom.github.io/andre_official_port" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
   <a href="https://andrecoutinhom.github.io/book_port/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=blue" target="_blank"></a>
-
-<img align="center" src="https://i.imgur.com/5EKtKDd.gif"/>
 
   </div>
 
