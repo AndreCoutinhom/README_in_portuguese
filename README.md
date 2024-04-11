@@ -65,6 +65,7 @@ Want to know more details about what I do? Interested in starting a research pro
 
 <div style="display: inline_block"><br>
 
+<img align="center" alt="Andre-Mendeley" height="68" width="68" src="https://cdn.iconscout.com/icon/free/png-256/free-mendeley-3628916-3030056.png"> 
 <img align="center" alt="Andre-GitCommand" height="53" width="53" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"> 
 <img align="center" alt="Andre-Office" height="53" width="63" src="https://geneses.com.br/wp-content/uploads/2021/07/512px-Microsoft_Office_logo_2019%E2%80%93present.svg.png"> 
 <img align="center" alt="Andre-Postman" height="53" width="48" src="https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png"> 
