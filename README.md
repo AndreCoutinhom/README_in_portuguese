@@ -1,35 +1,40 @@
-# **Reach the Stars** 🚀💫 
+# **Alcance as estrelas** 🚀💫
 
-> **"One small step from zero, I’m not afraid, cause the world that we want is right here for us to make."**. *Kanata Okajima*.
+<div align="left">
+  
+  [<sub><sup>README in english</sup></sub>](https://github.com/AndreCoutinhom)
+</div>
+
+> **"Com um pequeno passo a partir do zero, não tenho medo, porque o mundo que queremos está aqui para nós criarmos."**. *Kanata Okajima*.
 > 
-> Music [*One Small Step*](https://open.spotify.com/intl-pt/track/0wvi4qO9vQ0HkkKrMAdoTA?si=516c4b0df5e64ba8).
+> Música [*One Small Step*](https://open.spotify.com/intl-pt/track/0wvi4qO9vQ0HkkKrMAdoTA?si=516c4b0df5e64ba8).
 
-## Salutations!! 👋
+## Saudações!! 👋
 
-My name is André, welcome to my **GitHub** profile. Here you will find all my projects and notes that I take during various scholar experiences. I'm a serial interdisciplinary researcher specializing in ergonomic products design and intuitive interfaces, with applications focused on videogames and wearable devices.
+Meu nome é André, boas vindas ao meu perfil no **GitHub**. Aqui você vai encontrar todos os meus projetos e anotações que realizo diante de variadas experiências acadêmicas. Eu sou um pesquisador serial interdisciplinar especializado no desenvolvimento de produtos ergonômicos e interfaces intuitivas, com aplicações focadas em jogos digitais e dispositivos vestíveis. 
 
-Want to know more details about what I do? Interested in starting a research project in technology? Then stick around, read more of my _README_, visit my repositories and my websites, or send me an email, the address is right down below 👇.
+Quer saber mais detalhes sobre o que eu faço? Tem interesse em iniciar um projeto de pesquisa em tecnologia? Então fique por aqui, leia mais o meu _README_, visite meus repositórios e meus sites ou me dê um toque pelo meu _e-mail_, o endereço está bem aqui em baixo 👇. 
 
 📧 andre.coutinhom@gmail.com
 
-## Main Researches 📖
+## Principais pesquisas 📖
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&weight=300&pause=1000&color=0071FF&random=false&width=435&lines=Artificial+Cognitive+Systems+%F0%9F%A4%96%F0%9F%94%8C;Assistive+Movement+Technology++%F0%9F%A6%BD%F0%9F%A6%BC;AR+Game+Design+%F0%9F%95%B6%EF%B8%8F%F0%9F%8E%AE;Education+for+Logic+Thinking+%F0%9F%96%B1%EF%B8%8F%F0%9F%93%94)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&weight=300&size=18&pause=1000&color=026AFF&random=false&width=435&lines=Sistemas+Cognitivos+Artificiais+%F0%9F%A4%96%F0%9F%94%8C;Tecnologia+assistiva+para+movimento+%F0%9F%A6%BD%F0%9F%A6%BC;Design+de+jogos+em+AR+%F0%9F%95%B6%EF%B8%8F%F0%9F%8E%AE;Educa%C3%A7%C3%A3o+em+pensamento+l%C3%B3gico%F0%9F%96%B1%EF%B8%8F%F0%9F%93%94)](https://git.io/typing-svg)
 
-## Contributions performance 📈
+## Performance de contribuições 📈
 
 <div style="display: flex; justify-content: space-evenly; align-items: center;">
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AndreCoutinhom&theme=transparent&hide_border=true&locale=en&mode=weekly" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AndreCoutinhom&theme=transparent&hide_border=true&locale=pt_BR&mode=weekly" alt="GitHub Streak" /></a>
 
   <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/AndreCoutinhom)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndreCoutinhom&show_icons=true&theme=transparent&border_color=025CDA&text_color=80B5E2&border_radius=0.0&count_private=true&locale=en&card_width=520" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndreCoutinhom&show_icons=true&theme=transparent&border_color=025CDA&text_color=80B5E2&border_radius=0.0&count_private=true&locale=pt-br&card_width=520" />
  
   </a>
 
 ###
   
- <a href="[Git](https://github.com/AndreCoutinhom)">
+  <a href="[Git](https://github.com/AndreCoutinhom)">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreCoutinhom&hide_progress=false&theme=transparent&layout=compact&border_color=025CDA&text_color=80B5E2&border_radius=0.0&langs_count=8&locale=pt-br&card_width=520" />
   </a>  
   <img align="right" alt="Nick-Wilde" height="310" width="310" src="https://emoji.discadia.com/emojis/3865ebb6-3cdb-4588-9728-0b64c3b0c242.GIF">
@@ -42,7 +47,7 @@ Want to know more details about what I do? Interested in starting a research pro
   <img width=1200 src="https://github-profile-trophy.vercel.app/?username=AndreCoutinhom&theme=algolia"/>
 </a>
 
-## Study Tools 🔬
+## Ferramentas de estudo 🔬
 
   <div style="display: inline_block"><br>
 <img align="center" alt="Andre-HTML" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/html5-css3-primeiros-passos.svg"> 
@@ -80,7 +85,7 @@ Want to know more details about what I do? Interested in starting a research pro
 
 </div>  
 
-## Other places you can find me 🔍
+## Outros lugares para me encontrar 🔍
 
   <div> 
   <a href="https://pin.it/55pR1xx" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" target="_blank"></a>
@@ -91,4 +96,3 @@ Want to know more details about what I do? Interested in starting a research pro
   <a href="https://andrecoutinhom.github.io/book_port/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=blue" target="_blank"></a>
 
   </div>
-
