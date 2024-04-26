@@ -19,7 +19,7 @@ Quer saber mais detalhes sobre o que eu faço? Tem interesse em iniciar um proje
 
 ## Principais pesquisas 📖
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&weight=300&size=18&pause=1000&color=026AFF&random=false&width=435&lines=Sistemas+Cognitivos+Artificiais+%F0%9F%A4%96%F0%9F%94%8C;Tecnologia+assistiva+para+movimento+%F0%9F%A6%BD%F0%9F%A6%BC;Design+de+jogos+em+AR+%F0%9F%95%B6%EF%B8%8F%F0%9F%8E%AE;Educa%C3%A7%C3%A3o+em+pensamento+l%C3%B3gico%F0%9F%96%B1%EF%B8%8F%F0%9F%93%94)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&weight=300&pause=1000&color=0071FF&random=false&width=435&lines=Vest%C3%ADveis+Modulares+%F0%9F%91%95%F0%9F%AA%AB;Tecnologia+Assistiva++%F0%9F%98%8E%F0%9F%92%BB;Design+de+Jogos+em+RA+%F0%9F%93%B1%F0%9F%8E%AE)](https://git.io/typing-svg)
 
 ## Performance de contribuições 📈
 
