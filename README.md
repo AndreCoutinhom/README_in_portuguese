@@ -51,18 +51,16 @@ Quer saber mais detalhes sobre o que eu faço? Tem interesse em iniciar um proje
 
   <div style="display: inline_block"><br>
 <img align="center" alt="Andre-HTML" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/html5-css3-primeiros-passos.svg"> 
-<img align="center" alt="Andre-Javascript" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/javascript-web-paginas-dinamicas.svg">
 <img align="center" alt="Andre-UXW" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/ux-writing-escrevendo-textos-usuarios.svg">
+<img align="center" alt="Andre-Ps" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/adobe-photoshop-iluminacao-hq.svg">
+<img align="center" alt="Andre-Javascript" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/javascript-web-paginas-dinamicas.svg">
 <img align="center" alt="Andre-Python" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/python-entendendo-orientacao-objetos.svg">
 <img align="center" alt="Andre-Unreal" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/unreal-vr-arquitetura-parte-1.svg">
 <img align="center" alt="Andre-PowerPoint" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/comunicacao-corporativa-powerpoint.svg">
 <img align="center" alt="Andre-C++" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/c-plus-plus-orientacao-objetos-heranca.svg">
 <img align="center" alt="Andre-Video" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/producao-audiovisual.svg">
 <img align="center" alt="Andre-Character" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/design-personagem-concept-animais-criaturas.svg">
-<img align="center" alt="Andre-Communication" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/relacionamento-interpessoal.svg">
 <img align="center" alt="Andre-Alexa" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/iot-amazon-alexa.svg">
-<img align="center" alt="Andre-Git" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/git-github-compartilhando-colaborando-projetos.svg">
-<img align="center" alt="Andre-UXR" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/ux-research-conversao.svg">
 
 </div>  
 
@@ -70,20 +68,20 @@ Quer saber mais detalhes sobre o que eu faço? Tem interesse em iniciar um proje
 
 <div style="display: inline_block"><br>
 
-<img align="center" alt="Andre-Mendeley" height="68" width="68" src="https://cdn.iconscout.com/icon/free/png-256/free-mendeley-3628916-3030056.png"> 
-<img align="center" alt="Andre-GitCommand" height="53" width="53" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"> 
-<img align="center" alt="Andre-Office" height="53" width="63" src="https://geneses.com.br/wp-content/uploads/2021/07/512px-Microsoft_Office_logo_2019%E2%80%93present.svg.png"> 
-<img align="center" alt="Andre-Postman" height="53" width="48" src="https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png"> 
-<img align="center" alt="Andre-Corel" height="66" width="66" src="https://insmac.org/uploads/posts/2019-03/1553188286_coreldraw-graphics-suite.png">
-<img align="center" alt="Andre-Arduino" height="53" width="103" src="https://ioturkiye.com/wp-content/uploads/2022/08/ArduinoCommunityLogo.png">
-<img align="center" alt="Andre-Github" height="53" width="53" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png">  
-<img align="center" alt="Andre-Ps" height="53" width="53" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png"> 
-<img align="center" alt="Andre-VS" height="53" width="53" src="https://code.visualstudio.com/assets/apple-touch-icon.png">
-<img align="center" alt="Andre-React" height="53" width="63" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
-<img align="center" alt="Andre-Gemini" height="53" width="53" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-gemini-icon.png"> 
-<img align="center" alt="Andre-ChatGPT" height="63" width="63" src="https://i0.wp.com/aitoolsarena.com/wp-content/uploads/2023/03/gpt-4-logo-small.png?fit=320%2C320&ssl=1">
+<a href="https://www.mendeley.com/" target="_blank"><img align="center" alt="Andre-Mendeley" height="68" width="68" src="https://cdn.iconscout.com/icon/free/png-256/free-mendeley-3628916-3030056.png"></a>
+<a href="https://sci-hub.se" target="_blank"><img align="center" alt="Andre-Sci-Hub" height="55" width="55" src="https://sci-hub.ru/pictures/ravenround_hs.gif"></a>
+<a href="https://git-scm.com" target="_blank"><img align="center" alt="Andre-GitCommand" height="53" width="53" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></a>
+<a href="https://www.microsoft.com/pt-br/microsoft-365/microsoft-office" target="_blank"><img align="center" alt="Andre-Office" height="53" width="63" src="https://geneses.com.br/wp-content/uploads/2021/07/512px-Microsoft_Office_logo_2019%E2%80%93present.svg.png"></a>
+<a href="https://www.postman.com" target="_blank"><img align="center" alt="Andre-Postman" height="53" width="48" src="https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png"></a>
+<a href="https://www.coreldraw.com/" target="_blank"><img align="center" alt="Andre-Corel" height="66" width="66" src="https://insmac.org/uploads/posts/2019-03/1553188286_coreldraw-graphics-suite.png"></a>
+<a href="https://www.arduino.cc" target="_blank"><img align="center" alt="Andre-Arduino" height="53" width="103" src="https://ioturkiye.com/wp-content/uploads/2022/08/ArduinoCommunityLogo.png"></a>
+<a href="https://www.microsoft.com/microsoft-copilot" target="_blank"><img align="center" alt="Andre-Copilot" height="56" width="56" src="https://teaching.cambriancollege.ca/wp-content/uploads/2024/02/Microsoft_365_Copilot_Icon.svg_-300x300.png"></a>
+<a href="https://code.visualstudio.com" target="_blank"><img align="center" alt="Andre-VS" height="53" width="53" src="https://code.visualstudio.com/assets/apple-touch-icon.png"></a>
+<a href="https://react.dev" target="_blank"><img align="center" alt="Andre-React" height="53" width="63" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"></a>
+<a href="https://gemini.google.com/app" target="_blank"><img align="center" alt="Andre-Gemini" height="53" width="53" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-gemini-icon.png"></a>
+<a href="https://chat.openai.com" target="_blank"><img align="center" alt="Andre-ChatGPT" height="63" width="63" src="https://i0.wp.com/aitoolsarena.com/wp-content/uploads/2023/03/gpt-4-logo-small.png?fit=320%2C320&ssl=1"></a>
 
-</div>  
+</div>   
 
 ## Outros lugares para me encontrar 🔍
 
