@@ -67,19 +67,19 @@ Quer saber mais detalhes sobre o que eu faço? Tem interesse em iniciar um proje
 ##
 
 <div style="display: inline_block"><br>
-
-<a href="https://www.mendeley.com/" target="_blank"><img align="center" alt="Andre-Mendeley" height="68" width="68" src="https://cdn.iconscout.com/icon/free/png-256/free-mendeley-3628916-3030056.png"></a>
+  
+<a href="https://www.meta.com/quest/" target="_blank"><img align="center" alt="Andre-Oculus" height="75" width="75" src="https://preview.redd.it/htl7n50tlff31.png?width=450&format=png&auto=webp&s=c2381cacd0a0eca88bf041a54402a3b5397eb1f5"></a>
 <a href="https://sci-hub.se" target="_blank"><img align="center" alt="Andre-Sci-Hub" height="55" width="55" src="https://sci-hub.ru/pictures/ravenround_hs.gif"></a>
+<a href="https://www.mendeley.com/" target="_blank"><img align="center" alt="Andre-Mendeley" height="68" width="68" src="https://cdn.iconscout.com/icon/free/png-256/free-mendeley-3628916-3030056.png"></a>
 <a href="https://git-scm.com" target="_blank"><img align="center" alt="Andre-GitCommand" height="53" width="53" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></a>
 <a href="https://www.microsoft.com/pt-br/microsoft-365/microsoft-office" target="_blank"><img align="center" alt="Andre-Office" height="53" width="63" src="https://geneses.com.br/wp-content/uploads/2021/07/512px-Microsoft_Office_logo_2019%E2%80%93present.svg.png"></a>
-<a href="https://www.coreldraw.com/" target="_blank"><img align="center" alt="Andre-Corel" height="66" width="66" src="https://insmac.org/uploads/posts/2019-03/1553188286_coreldraw-graphics-suite.png"></a>
 <a href="https://www.arduino.cc" target="_blank"><img align="center" alt="Andre-Arduino" height="53" width="103" src="https://ioturkiye.com/wp-content/uploads/2022/08/ArduinoCommunityLogo.png"></a>
 <a href="https://www.microsoft.com/microsoft-copilot" target="_blank"><img align="center" alt="Andre-Copilot" height="56" width="56" src="https://teaching.cambriancollege.ca/wp-content/uploads/2024/02/Microsoft_365_Copilot_Icon.svg_-300x300.png"></a>
+<a href="https://chat.openai.com" target="_blank"><img align="center" alt="Andre-ChatGPT" height="63" width="63" src="https://i0.wp.com/aitoolsarena.com/wp-content/uploads/2023/03/gpt-4-logo-small.png?fit=320%2C320&ssl=1"></a>
+<a href="https://gemini.google.com/app" target="_blank"><img align="center" alt="Andre-Gemini" height="53" width="53" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-gemini-icon.png"></a>
 <a href="https://github.com" target="_blank"><img align="center" alt="Andre-GitHub" height="53" width="53" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Github_icon-icons.com_66788.png"></a>
 <a href="https://code.visualstudio.com" target="_blank"><img align="center" alt="Andre-VS" height="53" width="53" src="https://code.visualstudio.com/assets/apple-touch-icon.png"></a>
 <a href="https://react.dev" target="_blank"><img align="center" alt="Andre-React" height="53" width="63" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"></a>
-<a href="https://gemini.google.com/app" target="_blank"><img align="center" alt="Andre-Gemini" height="53" width="53" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-gemini-icon.png"></a>
-<a href="https://chat.openai.com" target="_blank"><img align="center" alt="Andre-ChatGPT" height="63" width="63" src="https://i0.wp.com/aitoolsarena.com/wp-content/uploads/2023/03/gpt-4-logo-small.png?fit=320%2C320&ssl=1"></a>
 
 </div>  
 
