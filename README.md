@@ -53,6 +53,7 @@ Quer saber mais detalhes sobre o que eu faço? Tem interesse em iniciar um proje
 <img align="center" alt="Andre-HTML" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/html5-css3-primeiros-passos.svg"> 
 <img align="center" alt="Andre-UXW" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/ux-writing-escrevendo-textos-usuarios.svg">
 <img align="center" alt="Andre-Ps" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/adobe-photoshop-iluminacao-hq.svg">
+<img align="center" alt="Andre-OWASP" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/owasp10-a5-broken-access-control.svg">
 <img align="center" alt="Andre-Javascript" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/javascript-web-paginas-dinamicas.svg">
 <img align="center" alt="Andre-Python" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/python-entendendo-orientacao-objetos.svg">
 <img align="center" alt="Andre-Unreal" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/unreal-vr-arquitetura-parte-1.svg">
