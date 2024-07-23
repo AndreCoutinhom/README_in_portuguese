@@ -70,11 +70,11 @@ Quer saber mais detalhes sobre o que eu faço? Tem interesse em iniciar um proje
 <div style="display: inline_block"><br>
   
 <a href="https://www.meta.com/quest/" target="_blank"><img align="center" alt="Andre-Oculus" height="75" width="75" src="https://preview.redd.it/htl7n50tlff31.png?width=450&format=png&auto=webp&s=c2381cacd0a0eca88bf041a54402a3b5397eb1f5"></a>
-<a href="https://sci-hub.se" target="_blank"><img align="center" alt="Andre-Sci-Hub" height="55" width="55" src="https://sci-hub.ru/pictures/ravenround_hs.gif"></a>
 <a href="https://www.mendeley.com/" target="_blank"><img align="center" alt="Andre-Mendeley" height="68" width="68" src="https://cdn.iconscout.com/icon/free/png-256/free-mendeley-3628916-3030056.png"></a>
 <a href="https://git-scm.com" target="_blank"><img align="center" alt="Andre-GitCommand" height="53" width="53" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></a>
 <a href="https://www.microsoft.com/pt-br/microsoft-365/microsoft-office" target="_blank"><img align="center" alt="Andre-Office" height="53" width="63" src="https://geneses.com.br/wp-content/uploads/2021/07/512px-Microsoft_Office_logo_2019%E2%80%93present.svg.png"></a>
 <a href="https://www.arduino.cc" target="_blank"><img align="center" alt="Andre-Arduino" height="53" width="103" src="https://support.arduino.cc/hc/article_attachments/12416033021852"></a>
+<a href="https://www.overleaf.com" target="_blank"><img align="center" alt="Andre-Overleaf" height="65" width="62" src="https://images.ctfassets.net/nrgyaltdicpt/2fJT673XY7Jyx0hnloYH5u/e8ab3a07b40ed4b9c18756d7741ef4dc/overleaf-o-logo-primary.png"></a>
 <a href="https://www.microsoft.com/microsoft-copilot" target="_blank"><img align="center" alt="Andre-Copilot" height="56" width="56" src="https://teaching.cambriancollege.ca/wp-content/uploads/2024/02/Microsoft_365_Copilot_Icon.svg_-300x300.png"></a>
 <a href="https://chat.openai.com" target="_blank"><img align="center" alt="Andre-ChatGPT" height="63" width="63" src="https://i0.wp.com/aitoolsarena.com/wp-content/uploads/2023/03/gpt-4-logo-small.png?fit=320%2C320&ssl=1"></a>
 <a href="https://gemini.google.com/app" target="_blank"><img align="center" alt="Andre-Gemini" height="53" width="53" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-gemini-icon.png"></a>
